@@ -1,8 +1,8 @@
 # Linux-Administration-Bash-Project
 
-![Screenshot 2024-08-19 032433](https://github.com/user-attachments/assets/5ecbb0db-f409-4125-8354-0afed6c0f2c0)
+![Screenshot 2024-08-19 032433](https://github.com/mohamedfayez-7/Admin_Helper-User_Management-GIU-Bash/blob/7accfc4293da1ed4a36c280582dc366e8f23e189/main-menu-screen.png)
 
-It is a collection of Bash scripts designed to simplify system administration tasks via a user-friendly graphical interface. The suite utilizes `whiptail` to create dialog boxes for various user and group management operations, providing an intuitive way to manage users and groups on a Unix-like system.
+It is a collection of Bash scripts that simplify system administration tasks via a user-friendly graphical interface. The suite utilizes `whiptail` to create dialog boxes for various user and group management operations, providing an intuitive way to manage users and groups on a Unix-like system.
 
 ## Features
 
@@ -21,8 +21,7 @@ It is a collection of Bash scripts designed to simplify system administration ta
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/whiptail-admin-suite.git
-   cd whiptail-admin-suite
+   git clone https://github.com/mohamedfayez-7/Admin_Helper-User_Management-GIU-Bash.git
    ```
 
 2. **Make Scripts Executable:**
@@ -47,7 +46,7 @@ It is a collection of Bash scripts designed to simplify system administration ta
 
 ## Scripts Overview
 
-- **`bash.sh`**: Main menu script that provides a selection of options for user and group management.
+- **`main-menu.sh`**: Main menu script that provides options for user and group management.
 - **`add-user.sh`**: Script to add a new user.
 - **`modify-user.sh`**: Script to modify existing users (e.g., username, UID, password, etc.).
 - **`delete-user.sh`**: Script to delete a user.
